@@ -1,0 +1,39 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+}
+
+#status, #number_of_objects, #start{
+    font-size: 20px;
+    box-shadow: 7px 7px 7px pink;
+    border: 2px dashed ;
+}
+
+.footer{
+    position: fixed;
+    color: rgb(41, 35, 138);
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    line-height: 3;
+    font-size: 20px;
+    font-style: bold;
+}
+
+canvas{
+    border: 4px dotted yellowgreen;
+    border-radius: 20px;
+    margin: 50px;
+    box-shadow: 5px 5px 5px skyblue;
+}
+
+#name{
+    width: 50%;
+}
